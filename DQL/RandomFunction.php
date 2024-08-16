@@ -9,7 +9,7 @@ use Doctrine\ORM\Query\AST\Functions\FunctionNode;
 
 class RandomFunction extends FunctionNode
 {
-    public function parse(Parser $parser)
+    public function parse(Parser $parser): void
     {
         $parser->match(Lexer::T_IDENTIFIER);
         $parser->match(Lexer::T_OPEN_PARENTHESIS);
