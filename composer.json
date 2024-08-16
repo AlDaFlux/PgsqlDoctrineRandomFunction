@@ -1,7 +1,7 @@
 {
-    "name": "qbbr/pgsql-doctrine-random-function",
+    "name": "aldaflux/pgsql-doctrine-random-function",
     "type": "symfony-bundle",
-    "description": "PostgreSQL RANDOM() function for Doctrine ORM",
+    "description": "PostgreSQL RANDOM() function for Doctrine ORM, fork from https://packagist.org/packages/qbbr/pgsql-doctrine-random-function",
     "keywords": ["doctrine", "symfony", "postgresql", "pgsql", "function", "random", "qbbr"],
     "homepage": "https://github.com/qbbr/PgsqlDoctrineRandomFunction",
     "license": "MIT",
