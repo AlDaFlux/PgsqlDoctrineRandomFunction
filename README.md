@@ -11,7 +11,7 @@ PostgreSQL RANDOM() function for Doctrine ORM
 ### Step 1: Download the package
 
 ```bash
-$ composer require qbbr/pgsql-doctrine-random-function
+$ composer require aldaflux/pgsql-doctrine-random-function
 ```
 
 ### Step 2: Configuration
